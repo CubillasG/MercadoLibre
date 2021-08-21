@@ -1,0 +1,49 @@
+*{
+    font-family: 'Space Grotesk', sans-serif;
+}
+header{
+    background-color: #fff159;
+    width: 100%;
+    height: 80px;
+}
+.container-fluid{
+    background-color: #fff159 ;
+}
+.logo{
+    text-align: center;
+    margin-top: 30px;
+}
+.buscador{
+    margin-top: 10px;
+    text-align: center;
+    background-color: white;
+    border: white;
+}
+.point{
+    width: 350px;
+    padding-top: 6px;
+}
+.ubicacion{
+    padding-left: 60px;
+  
+}
+.navegador{
+    display: flex;
+}
+.opciones{
+     margin-left: 118px; 
+     background:#fff159;
+    font-size: 12px;
+}
+.opcionesNav{
+    
+    background:#fff159 ;
+}
+.{
+    background-color: white;
+    border: white;
+}
+.lupa{
+    width: 25px;
+    background-color: white;
+}
