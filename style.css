@@ -47,3 +47,12 @@ header{
     width: 25px;
     background-color: white;
 }
+.compra{
+    margin-left: 118px; 
+    background:#fff159;
+   font-size: 12px;
+}
+.carro{
+    margin-left: -15px;
+    margin-top: -7px;
+}
