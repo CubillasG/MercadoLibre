@@ -56,6 +56,16 @@ header{
     margin-left: -15px;
     margin-top: -7px;
 }
+.container{
+    padding-top: 30px;
+   
+}
+section{
+    width: 100%;
+    height: 100vh;
+    background-color:#e9ecef ;
+
+}
 img, svg{
     float: left;
 }
@@ -65,8 +75,18 @@ img, svg{
     padding-bottom: 0;
     margin-bottom: 0;
 }
+.menuDePago{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    border: solid white 3px;
+    box-shadow: 1px 1px 1px gray;
+    background: white;
+}
 .mediosdp{
-    font-size: 15px;
+    font-size:15px;
     text-decoration: none;
+ 
 }
 
