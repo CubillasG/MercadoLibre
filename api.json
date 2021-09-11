@@ -1,0 +1,41 @@
+[
+    {
+        "precio": 20000,
+        "id": 1,
+        "titulo": "Bicicleta",
+        "imagen": "img/bici.png"
+    },
+    {
+        "precio": 15000,
+        "id": 2,
+        "titulo": "Cafetera",
+        "imagen": "img/cafetera.png"
+    },
+    {
+        "precio": 50000,
+        "id": 3,
+        "titulo": "Celular",
+        "imagen": "img/celular.png"
+    },
+    {
+        "precio": 25000,
+        "id": 4,
+        "titulo": "Lavarropa",
+        "imagen": "img/lavarropas.png"
+    },
+    {
+        "precio": 80000,
+        "id": 5,
+        "titulo": "Notbook",
+        "imagen": "img/notbook.png"
+    },
+    {
+        "precio": 45000,
+        "id": 6,
+        "titulo": "Smart",
+        "imagen": "img/smart.png"
+    }
+    
+    
+
+]
