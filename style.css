@@ -98,3 +98,37 @@ img, svg{
     margin-top: 6px;
 }
 
+.lista-productos{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.grilla{
+    background: chocolate;
+    width: 100%;
+ 
+}
+#items{
+    display: flex;
+}
+.catalogo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: black 25px;
+    background: cornflowerblue;
+    width: 250px;
+    height: 400px;
+}
+.card{
+    width: 250px;
+    border: black 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+}
